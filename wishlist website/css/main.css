@@ -1,0 +1,139 @@
+.entry-container{
+    background-color: #F5E2E2;
+    height: 69px;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    
+}
+
+.text-entry-container{
+    font-family: 'Unbounded-Blond', sans-serif;
+    font-size: 28px;
+    color: #322B2B;
+    padding-top: 18px;
+}
+
+.logo{
+    position: absolute;
+    width: 238px;
+    height: 95px;
+    left: 45px;
+    top: 103px;
+    margin-top: 34px;
+    margin-left: 45px;
+}
+
+.menu{
+    font-family: 'Unbounded-Bold', sans-serif;
+    font-size: 30px;
+    color: #322B2B;
+    display: flex;
+    margin-left: 641px;
+  
+}
+
+.menu-btn{
+    margin-left: 100px;
+    margin-top: 64px;
+    margin-bottom: 65px;
+}
+
+.hr{
+    background-color: #F5E2E2;
+    height: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
+}
+
+.text-box{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+
+.text1 {
+    font-family: 'Unbounded-Blond';
+    font-size: 28px;
+    letter-spacing: 0.05em;
+    color: #322B2B;
+    margin-bottom: 15px;
+}
+
+.line{
+    width: 428px;
+}
+
+.text2{
+    font-family: 'Unbounded-Bold';
+    font-size: 60px;
+    letter-spacing: 0.05em;
+    color: #322B2B;
+    width: 582px;
+    margin-bottom: 35px;
+    margin-top: 30px;
+
+}
+
+.text3 {
+    width: 774px;
+    font-family: 'Unbounded-Blond';
+    font-size: 24px;
+    letter-spacing: 0.05em;
+    color: #322B2B;
+}
+
+.login-btn {
+    width: 451px;
+    height: 110px;
+    background: #F5E2E2;
+    border-radius: 30px;
+    margin-top: 45px;
+    margin-left: 105px;
+
+}
+
+.login-btn-text {
+    font-family: 'Unbounded-Bold';
+    font-size: 32px;
+    letter-spacing: 0.05em;
+    color: #322B2B;
+    padding: 36px;
+    width: 400px;
+}
+
+.table, th, td{
+    font-family: 'Unbounded-Blond', sans-serif;
+    font-size: 28px;
+    color: #322B2B;
+    margin: 50px;
+    border-collapse: collapse;
+    border: 3px solid #322B2B;
+    padding: 5px;
+   
+}
+
+.list {
+    font-family: 'Unbounded-Blond', sans-serif;
+    font-size: 24px;
+    color: #322B2B;
+    margin: 50px;
+}
+
+.wishlist-form{
+    font-family: 'Unbounded-Blond', sans-serif;
+    font-size: 24px;
+    color: #322B2B;
+    margin: 50px;
+}
+@font-face {
+    font-family: "Unbounded-Blond"; 
+    src: url("/fonts/Unbounded-Blond.woff2") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Unbounded-Bold"; 
+    src: url("/fonts/Unbounded-Bold.woff2") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
